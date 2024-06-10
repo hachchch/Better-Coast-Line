@@ -1,1 +1,130 @@
-
+[
+        {
+                "name": "Grassland West Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland South West Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland South East Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland East Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland North East Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland North Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland North West Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        },
+        {
+                "name": "Grassland Around Coast",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+                "RGB": [0, 163, 0],
+                "uniques": [
+            "Grassland","Doesn't generate naturally",
+            "Considered [Desirable] when determining start locations",
+            "Considered [Food] when determining start locations <in [Jungle] Regions>",
+            "Considered [Food] when determining start locations <in [Forest] Regions>",
+            "Considered [Food] when determining start locations <in [Hill] Regions>",
+            "Considered [Food] when determining start locations <in [Grassland] Regions>",
+            "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
+        }
+]
