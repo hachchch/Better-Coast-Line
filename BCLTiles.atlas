@@ -1,0 +1,68 @@
+BCLTiles.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/Grassland West Coast
+  rotate: false
+  xy: 0, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland Around Coast
+  rotate: false
+  xy: 32, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland North West Coast
+  rotate: false
+  xy: 64, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland North Coast
+  rotate: false
+  xy: 96, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland North East Coast
+  rotate: false
+  xy: 128, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland East Coast
+  rotate: false
+  xy: 160, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland South East Coast
+  rotate: false
+  xy: 192, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland South Coast
+  rotate: false
+  xy: 224, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Grassland South West Coast
+  rotate: false
+  xy: 256, 0
+  size: 32, 32
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
