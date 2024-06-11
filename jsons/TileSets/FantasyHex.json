@@ -2,6 +2,13 @@
 	"useColorAsBaseTerrain": "false",
 	"ruleVariants": {
 		"Grassland West Coast+Forest": ["Grassland West Coast","GrasslandForest"],
-		"Grassland East Coast+Forest": ["Grassland East Coast","GrasslandForest"]
+		"Grassland East Coast+Forest": ["Grassland East Coast","GrasslandForest"],
+		"Grassland South West Coast+Forest": ["Grassland South West Coast","GrasslandForest"],
+		"Grassland South East Coast+Forest": ["Grassland South East Coast","GrasslandForest"],
+		"Grassland North West Coast+Forest": ["Grassland North West Coast","GrasslandForest"],
+		"Grassland North East Coast+Forest": ["Grassland North East Coast","GrasslandForest"],
+		"Grassland South Coast+Forest": ["Grassland South Coast","GrasslandForest"],
+		"Grassland North Coast+Forest": ["Grassland North Coast","GrasslandForest"],
+		"Grassland Around Coast+Forest": ["Grassland Around Coast","GrasslandForest"]
 	}
 }
