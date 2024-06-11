@@ -1,6 +1,7 @@
 {
 	"useColorAsBaseTerrain": "false",
 	"ruleVariants": {
+		/*GF*/
 		"Grassland West Coast+Forest": ["Grassland West Coast","GrasslandForest"],
 		"Grassland East Coast+Forest": ["Grassland East Coast","GrasslandForest"],
 		"Grassland South West Coast+Forest": ["Grassland South West Coast","GrasslandForest"],
@@ -9,6 +10,16 @@
 		"Grassland North East Coast+Forest": ["Grassland North East Coast","GrasslandForest"],
 		"Grassland South Coast+Forest": ["Grassland South Coast","GrasslandForest"],
 		"Grassland North Coast+Forest": ["Grassland North Coast","GrasslandForest"],
-		"Grassland Around Coast+Forest": ["Grassland Around Coast","GrasslandForest"]
+		"Grassland Around Coast+Forest": ["Grassland Around Coast","GrasslandForest"],
+		/*GJ*/
+		"Grassland West Coast+Jungle": ["Grassland West Coast","Jungle"],
+		"Grassland East Coast+Jungle": ["Grassland East Coast","Jungle"],
+		"Grassland South West Coast+Jungle": ["Grassland South West Coast","Jungle"],
+		"Grassland South East Coast+Jungle": ["Grassland South East Coast","Jungle"],
+		"Grassland North West Coast+Jungle": ["Grassland North West Coast","Jungle"],
+		"Grassland North East Coast+Jungle": ["Grassland North East Coast","Jungle"],
+		"Grassland South Coast+Jungle": ["Grassland South Coast","Jungle"],
+		"Grassland North Coast+Jungle": ["Grassland North Coast","Jungle"],
+		"Grassland Around Coast+Jungle": ["Grassland Around Coast","Jungle"]
 	}
 }
