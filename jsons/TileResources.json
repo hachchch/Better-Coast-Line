@@ -7,7 +7,9 @@
 		"improvement": "Pasture",
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
-					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
+					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>",
+		"Generated on every [20] tiles <in [{Featureless} {Riparian}] tiles>",
+		"Generated on every [32] tiles <in [{Featureless} {Gradient}] tiles>"]
         },
         {
                 "name": "Stone",
@@ -19,6 +21,8 @@
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
-					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
+					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>",
+		"Generated on every [20] tiles <in [{Featureless} {Riparian}] tiles>",
+		"Generated on every [32] tiles <in [{Featureless} {Gradient}] tiles>"]
         }
 ]
