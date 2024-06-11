@@ -6,7 +6,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -22,7 +22,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Gradient","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -38,7 +38,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -54,7 +54,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Gradient","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -70,7 +70,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -86,7 +86,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Gradient","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -102,7 +102,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -118,7 +118,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Gradient","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
@@ -134,7 +134,7 @@
 		"movementCost": 1,
                 "RGB": [0, 163, 0],
                 "uniques": [
-            "Grassland","Doesn't generate naturally",
+            "Grassland","Riparian","Doesn't generate naturally",
             "Considered [Desirable] when determining start locations",
             "Considered [Food] when determining start locations <in [Jungle] Regions>",
             "Considered [Food] when determining start locations <in [Forest] Regions>",
