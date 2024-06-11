@@ -1,5 +1,5 @@
-<p>ver 1.0<br>
-Added grassland coast line as testing work<br>
+<p>ver1.1<br>
+Made coastline can have some Terrain Features<br>
 <br>
-ver1.1<br>
-Made coastline can have some Terrain Features</p>
+ver 1.0<br>
+Added grassland coast line as testing work</p>
