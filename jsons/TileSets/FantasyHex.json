@@ -1,6 +1,16 @@
 {
 	"useColorAsBaseTerrain": "false",
 	"ruleVariants": {
+		/*GFa*/
+		"Grassland West Coast+Farm": ["Grassland West Coast","GFarmW"],
+		"Grassland East Coast+Farm": ["Grassland East Coast","GFarmE"],
+		"Grassland South West Coast+Farm": ["Grassland South West Coast","GFarmSW"],
+		"Grassland South East Coast+Farm": ["Grassland South East Coast","GFarmSE"],
+		"Grassland North West Coast+Farm": ["Grassland North West Coast","GFarmNW"],
+		"Grassland North East Coast+Farm": ["Grassland North East Coast","GFarmNE"],
+		"Grassland South Coast+Farm": ["Grassland South Coast","GFarmS"],
+		"Grassland North Coast+Farm": ["Grassland North Coast","GFarmN"],
+		"Grassland Around Coast+Farm": ["Grassland Around Coast","GFarmA"],
 		/*GF*/
 		"Grassland West Coast+Forest": ["Grassland West Coast","GrasslandForest"],
 		"Grassland East Coast+Forest": ["Grassland East Coast","GrasslandForest"],
