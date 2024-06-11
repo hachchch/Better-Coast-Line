@@ -1,0 +1,24 @@
+[
+        {
+                "name": "Cattle",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Grassland East Coast","Grassland South East Coast","Grassland South Coast","Grassland South West Coast","Grassland West Coast","Grassland North West Coast","Grassland North Coast","Grassland North East Coast","Grassland Around Coast"],
+		"food": 1,
+		"improvement": "Pasture",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
+					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
+        },
+        {
+                "name": "Stone",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra",
+                "Grassland East Coast","Grassland South East Coast","Grassland South Coast","Grassland South West Coast","Grassland West Coast","Grassland North West Coast","Grassland North Coast","Grassland North East Coast","Grassland Around Coast"],
+		"production": 1,
+		"improvement": "Quarry",
+		"improvementStats": {"production": 1},
+		"uniques": ["Generated on every [20] tiles <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [15] tiles <in [{Featureless} {Tundra}] tiles>",
+					"Generated on every [19] tiles <in [{Featureless} {Desert}] tiles>"]
+        }
+]
