@@ -1,0 +1,7 @@
+{
+	"useColorAsBaseTerrain": "false",
+	"ruleVariants": {
+		"Grassland West Coast+Forest": ["Grassland West Coast","GrasslandForest"],
+		"Grassland East Coast+Forest": ["Grassland East Coast","GrasslandForest"],
+	}
+}
